@@ -1,4 +1,7 @@
 [gerrit]
-host=review.openstack.org
+host=review.gerrithub.io
 port=29418
 project=premanandasahoomitraz/master
+defaultbranch=master
+defaultremote=origin
+defaultrebase=0
