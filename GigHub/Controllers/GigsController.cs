@@ -9,9 +9,7 @@ namespace GigHub.Controllers
 {
     public class GigsController : Controller
     {
-        private readonly IUnitOfWork _unitOfWork;
-
-        //testing gerrit
+        private readonly IUnitOfWork _unitOfWork;        
 
         public GigsController(IUnitOfWork unitOfWork)
         {
